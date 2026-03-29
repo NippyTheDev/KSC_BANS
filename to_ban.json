@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "player": "LittleGamerMella",
+    "reason": "test from the bot",
+    "time": "1min",
+    "startTime": 1774816442546,
+    "bannedBy": "Moderation system"
+  }
+]
